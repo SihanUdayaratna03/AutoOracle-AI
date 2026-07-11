@@ -1,4 +1,4 @@
-<h1 align="center">AutoOracle AI 🏎️🔮</h1>
+<h1 align="center">AutoOracle AI 🏎️</h1>
 
 <p align="center">
   <strong>A Machine Learning pipeline for predicting used car prices based on vehicle history, specifications, and market data.</strong>
