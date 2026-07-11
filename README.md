@@ -13,3 +13,10 @@ The dataset contains features such as:
 - Transmission
 - Owner
 
+
+## Models Used
+The following models are evaluated:
+1. Linear Regression
+2. Lasso Regression
+3. Random Forest Regressor
+
