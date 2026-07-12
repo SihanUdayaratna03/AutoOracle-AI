@@ -41,7 +41,7 @@ graph TD
 
     subgraph "2. Backend Server (Python / FastAPI)"
         E -.->|Loads Model| F[api.py]
-        F -->|Exposes Endpoint| G[/predict POST API]
+        F -->|Exposes Endpoint| G["/predict POST API"]
     end
 
     subgraph "3. Frontend Web App (React + Vite)"
