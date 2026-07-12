@@ -1,4 +1,4 @@
-<h1 align="center">AutoOracle AI 🚘</h1>
+<h1 align="center">AutoOracle AI </h1>
 
 <p align="center">
   <strong>A Premium, Full-Stack Machine Learning Pipeline & Web Application for predicting used car prices.</strong><br>
